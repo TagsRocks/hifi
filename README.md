@@ -1,3 +1,6 @@
+Better Build?
+https://github.com/ey6es/hifi/blob/master/BUILD_WIN.md
+
 High Fidelity (hifi) is an early-stage technology
 lab experimenting with Virtual Worlds and VR. 
 
